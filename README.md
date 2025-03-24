@@ -15,6 +15,6 @@ Let's get in touch!
 
 Email: diniz.mgabriela@gmail.com
 
-LinkedIn: linkedin.com/in/gabi-diniz-833a40353
+LinkedIn: https://www.linkedin.com/in/gabi-diniz-833a40353/
 
 Excited for what’s ahead! 🚀
