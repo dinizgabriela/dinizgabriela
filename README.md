@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey, I'm Gabi! 
 
-<!--
-**dinizgabriela/dinizgabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Aspiring web developer on a journey to tech. Learning, coding, and growing!
 
-Here are some ideas to get you started:
+About Me:
+- Career switcher passionate about technology.
+- Working on projects to improve my skills.
+- Open to opportunities and collaborations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+Let's get in touch!
+
+Email: diniz.mgabriela@gmail.com
+
+LinkedIn: linkedin.com/in/gabi-diniz-833a40353
+
+Excited for what’s ahead! 🚀
